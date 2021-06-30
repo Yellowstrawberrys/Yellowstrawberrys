@@ -1,6 +1,12 @@
 # About Yellowstrawberry
 ### ! Yellowstrawberry is my second account !
 
+I Like Java
+<br/>
+<br/>
+- I am thinking what I need to make
+
+
 <br/>
 Github Stats: <br/>
 
