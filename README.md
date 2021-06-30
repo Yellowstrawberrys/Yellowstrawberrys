@@ -1,11 +1,12 @@
 # About Yellowstrawberry
 ### ! Yellowstrawberry is my second account !
 
-I Like Java
-<br/>
-<br/>
-- I am thinking what I need to make
 
+- 🤔 I am thinking what I need to make
+- ❤️ I like Java
+- 💻 I love coding
+- 🇰🇷 I come from korea
+- 🇩🇪 But I live in Germany
 
 <br/>
 Github Stats: <br/>
