@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>it's not rickroll or that kind of thing</title>
+</head>
+<script>
+  onLoad(){
+    window.location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';
+  }
+</script>
+<body onload="onLoad()">
+it's not rickroll or that kind of thing
+</body>
+</html>
