@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@300;500;600&display=swap');
+
+:root {
+    font-family: 'IBM Plex Sans KR', sans-serif;
+    color: white;
+}
+
+body {
+    margin: 0;
+    background-image: url('imgs/background.png');
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #2b2d30;
+    
+    display: grid;
+    grid-template-areas: 
+    "🟦 🟦 🟦 🟦 🟦 🟦 🟦"
+    ". . . . . . ."
+    ". . ⬜ ⬜ ⬜ . ."
+    ". . . . . . ."
+    ". . . . . . .";
+}
+
+#logoArea {
+    grid-area: 🟦;
+}
+
+#textArea {
+    grid-area: ⬜;
+}
+
+#title {
+    padding: 1%;
+    display: flex;
+    align-items: center;
+}
+
+#title > p {
+    font-size: 160%;
+    margin-left: 1%;
+    font-weight: 500;
+}
+
+#logo {
+    width: 5%;
+    max-width: min(7vh, 4vw);
+}
+
+#texts {
+    color: #828282;
+    font-size: 300%;
+    text-align: center;
+    font-weight: 300;
+}
+
+strong {
+    text-decoration: none;
+    color: white;
+}
+
+strong.bold {
+    font-weight: 600;
+}
+
+strong.thin {
+    font-weight: 300;
+}
+
+strong.bold.yellow {
+    color: #EAFF00;
+}
+
+strong.bold.red {
+    color: #FF2121;
+}
+
+strong.bold.blue {
+    color: #5694FF;
+}
